@@ -1,6 +1,6 @@
 ## Hi there! I'm Lim 🇰🇭🇺🇸💻
 
-## I'm a Full Stack Engineer based in SF.
+## I'm a Full Stack Engineer based in San Francisco, CA.
 
 
 - 📚   Currently reading Clean Code by Robert C. Martin and RESTful API Design Methodology by IBM Knowledge Center
