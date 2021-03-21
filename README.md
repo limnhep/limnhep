@@ -1,4 +1,4 @@
-## Hi there! I'm Lim 🇰🇭🇺🇸💻
+## Hello, I'm Lim 🇰🇭🇺🇸💻
 
 ## I'm a Full Stack Engineer based in San Francisco, CA.
 
