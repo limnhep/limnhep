@@ -6,8 +6,8 @@
 - 📚   Currently reading Clean Code by Robert C. Martin and RESTful API Design Methodology by IBM Knowledge Center
 - 💫   Leetcoding and focusing on data structures, algorithms, TDD, and full stack web development
 - 🌱   Looking for opportunities to grow and contribute in meaningful work and technical projects that meet **ESG** standards
-- 🥅   2021 Goals: Utilizing my skills to build scalable and efficient products and continuing learning and programming every day.
-- ⚡    Fun fact: I love listening to podcasts 🎧 (Masters of Scale, JS Party Podcast, Bloomberg Masters in Business, and Jocko Podcast - Extreme Ownership) and working out 🏃🏻‍♂️ with friends.
+- 🥅   **2021 Goals**: Utilizing my skills to build scalable and efficient products and continuing learning and programming every day.
+- ⚡    **Fun fact**: I love listening to podcasts 🎧 (Masters of Scale, JS Party Podcast, Bloomberg Masters in Business, and Jocko Podcast - Extreme Ownership) and working out 🏃🏻‍♂️ with friends.
 <br />
 
 ## Software Applications
