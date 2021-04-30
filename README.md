@@ -13,16 +13,16 @@
 - 📭   Let's connect: limenhep@gmail.com
 <br />
 
+## Data Structures and Algorithms
+
+- ♾ [DS&A Daily Challenges](https://github.com/limnhep/algo)
+
 ## Software Applications
 
 - 🥗 [Mukbangly (Food Discovery App) - Full Stack Engineer](https://github.com/limnhep/mukbangly) | PostgreSQL, Express.js, React.js, Node.js, Styled Components, REST API
 - 🏡 [Jellyfish-130 (Back End Optimization) - Back End Engineer](https://github.com/Jellyfish-130/gallery-service) | PostgreSQL, Cassandra, NGINX, AWS EC2 and S3, Loader.io, New Relic, K6, React.js, Express.js, Node.js, REST API
 - ⭐️ [Glity (Reviews App) - Front End Engineer](https://github.com/Glity/people-also-viewed) | MongoDB, Express.js, React.js, Node.js, Jest / Enzyme, Styled Components, REST API
 <br />
-
-## Data Structures and Algorithms
-
-- ♾ [DS&A Daily Challenges](https://github.com/limnhep/algo)
 
 
 ### Languages and Tools:
