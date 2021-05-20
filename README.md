@@ -1,14 +1,14 @@
 ## Hello, I'm Lim 🇰🇭🇺🇸💻
 
-### 👋 I'm a Full Stack Engineer
+### 👋 I'm a Full Stack Software Engineer
 ### 🌲Based in San Francisco, CA.
 
 
 
 - 📚   Currently reading Clean Code by Robert C. Martin and RESTful API Design Methodology by IBM Knowledge Center
-- 💫   Leetcoding and focusing on data structures, algorithms, TDD, and full stack responsive web development (w/ web accessibility & security and good design patterns)
-- 🥅   **2021 Goals**: Utilizing my skills to build scalable and efficient products and continuing learning and programming every day.
-- ⚡    **Fun fact**: I love listening to podcasts 🎧 (Masters of Scale, JS Party Podcast, Bloomberg Masters in Business, and Jocko Podcast - Extreme Ownership) and working out 🏃🏻‍♂️ with friends.
+- 💫   Enjoy Leetcoding and evaluating DS&A tradeoffs
+- 🥅   Actively contributing to open-source applications and building maintainable, scalable, and responsive web development (w/ web accessibility, testing & security, and good design patterns)
+- ⚡    **Fun fact**: I enjoy listening to podcasts 🎧 (Masters of Scale, JS Party Podcast, Bloomberg Masters in Business, and Jocko Podcast - Extreme Ownership) and working out 🏃🏻‍♂️ with friends
 - 📭   Let's connect: limenhep@gmail.com
 <br />
 
