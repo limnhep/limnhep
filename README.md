@@ -1,6 +1,6 @@
 ## Hello, I'm Lim 🇰🇭🇺🇸💻
 
-### 👋 I'm a Full Stack Software Engineer
+### 👋 I'm a Software Engineer
 ### 🌲Based in San Francisco, CA.
 
 
