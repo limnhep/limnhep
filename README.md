@@ -1,4 +1,4 @@
-## Hello, I'm Lim 🇰🇷🇰🇭🇺🇸💻
+## Hello, I'm Lim 🇰🇷🇰🇭🇨🇳🇺🇸💻
 
 ### 👋 I'm a Software Engineer
 ### 🌲Based in San Francisco, CA.
