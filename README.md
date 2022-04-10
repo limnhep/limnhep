@@ -9,7 +9,7 @@
 - 💫   Enjoy Leetcoding and evaluating DS&A tradeoffs
 - 🥅   Actively contributing to open-source applications and building maintainable, scalable, and responsive web applications (w/ web accessibility, testing & security, and good design patterns)
 - ⚡    **Fun fact**: I enjoy listening to podcasts 🎧 (Masters of Scale, JS Party Podcast, Bloomberg Masters in Business, and Jocko Podcast - Extreme Ownership) and working out 🏃🏻‍♂️ with friends
-- 📭   Let's connect: limenhep@gmail.com
+- 
 <br />
 
 ## Data Structures and Algorithms
