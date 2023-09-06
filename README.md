@@ -1,4 +1,4 @@
-## Hello, I'm Lim 🇰🇷🇰🇭🇨🇳🇺🇸💻
+## Hello, It's Liam :) 💻
 
 ### 👋 I'm a Software Engineer
 ### 🌲Based in San Francisco, CA.
@@ -52,8 +52,6 @@
 <br />
 
 ---
-
-<img align="left" alt="limnhep's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=limnhep&show_icons=true&hide_border=true" />
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=limnhep&theme=tokyonight_duo&hide_border=true&dates=black&stroke=white&currStreakNum=black&background=white&sideNums=black&currStreakLabel=black&sideLabels=black)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
