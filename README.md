@@ -1,6 +1,6 @@
 ## Hello, It's Liam :) 💻
 
-### 👋 I'm a Software Engineer
+### 👋 I'm a Software Engineer. I love working on Applied AI solutions <3
 ### 🌲Based in San Francisco, CA.
 
 
