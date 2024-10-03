@@ -6,7 +6,7 @@
 
 
 - 📚   Currently reading Clean Code by Robert C. Martin and RESTful API Design Methodology by IBM Knowledge Center
-- 💫   Enjoy Leetcoding and evaluating DS&A tradeoffs
+- 💫   Enjoy Leetcoding and evaluating DS&A tradeoffs and particularly interested in Applied AI
 - 🥅   Actively contributing to open-source applications and building maintainable, scalable, and responsive web applications (w/ web accessibility, testing & security, and good design patterns)
 - ⚡    **Fun fact**: I enjoy listening to podcasts 🎧 (Masters of Scale, JS Party Podcast, Bloomberg Masters in Business, and Jocko Podcast - Extreme Ownership) and working out 🏃🏻‍♂️ with friends
 <br />
