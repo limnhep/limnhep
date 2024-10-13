@@ -17,7 +17,7 @@
 
 ### Languages and Tools:
 
-
+![](https://img.shields.io/badge/Language-JavaScript-informational?style=plastic&logo=python&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Language-JavaScript-informational?style=plastic&logo=javascript&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Language-TypeScript-informational?style=plastic&logo=typescript&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Tools-React-informational?style=plastic&logo=react&logoColor=white&color=blue)
